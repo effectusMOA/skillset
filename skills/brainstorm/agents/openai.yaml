@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Develop research ideas through two-agent evidence-based debate"
+  default_prompt: "Use $brainstorm to research prior work and refine my research idea through two independent agents, then explain the result top-down."
