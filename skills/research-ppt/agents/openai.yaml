@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research PPT"
+  short_description: "Build research slides from evidence to a clear contribution"
+  default_prompt: "Use $research-ppt to create or revise a research presentation with source-grounded literature synthesis, a clear framework and focused equations, then obtain PPT expert-agent feedback and revise the deck."
